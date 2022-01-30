@@ -1,0 +1,14 @@
+body{
+    font-family: "Oxygen";
+    list-style-position: inside;
+}
+h1{
+    color: #470D21;
+}
+.index-green {
+    color: #9C0F48 ;
+}
+.footer {
+    color: rgb(112, 110, 110);
+    font-size: small;
+}
